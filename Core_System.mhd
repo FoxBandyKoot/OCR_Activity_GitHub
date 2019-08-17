@@ -9,3 +9,9 @@ DON'T FORTGET "§" AT END OF LINE
 
 print("Hello toi")§
 
+
+TELEPORTATER new cow_teleporter1 = new TELEPORTER§
+
+COW new blueCow = new COW§
+
+cow_teleporter1->->->tp(blueCow)§
