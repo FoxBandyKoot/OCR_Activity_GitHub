@@ -1,0 +1,9 @@
+
+
+HUMAN new HelixJr = new HUMAN
+
+IF WORLD == POULLUATED{
+	HelixJr.Depolluated(WORLD)§
+}
+
+
